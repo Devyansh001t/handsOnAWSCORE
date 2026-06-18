@@ -1,0 +1,11 @@
+Category,SKU,total_revenue,total_units_sold,rnk
+Blouse,J0217-BL-L,20275.0,30.0,1
+Blouse,J0217-BL-M,19593.0,31.0,2
+Blouse,J0217-BL-XL,18922.0,27.0,3
+Blouse,J0217-BL-S,18106.0,26.0,4
+Blouse,BL021-71BLACK,14234.0,36.0,5
+Bottom,BTM031-NP-XL,2590.0,5.0,1
+Bottom,BTM039-PP-XXXL,2520.0,7.0,2
+Bottom,BTM002-B-M,2283.0,4.0,3
+Bottom,BTM038-PP-S,2268.0,6.0,4
+Bottom,AN213-BROWN-S,2264.0,8.0,5
