@@ -44,9 +44,6 @@ The crawler auto-detects the CSV schema and creates a table named `amazon_sale_r
 
 The crawler was run manually. AWS Glue automatically publishes crawler metrics and logs to CloudWatch. Under **CloudWatch → Log Groups → `/aws-glue/crawlers`**, the log stream for `amazon-sales-crawler` shows the crawl start time, number of tables created/updated, and completion status.
 
-> 📸 *[Insert CloudWatch screenshot here]*  
-> 📸 *[Insert IAM Role screenshot here]*  
-> 📸 *[Insert S3 Buckets screenshot here]*
 
 ### Step 5 – Query with Amazon Athena
 
