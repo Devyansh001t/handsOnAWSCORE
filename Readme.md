@@ -188,7 +188,7 @@ aws-core-services-handson/
 ├── query3_revenue_by_fulfilment.csv
 ├── query4_monthly_sales_trend.csv
 ├── query5_top5_skus_per_category.csv
-└── README.md                       # This file (with screenshots)
+└── README.md                      
 ```
 
 ---
